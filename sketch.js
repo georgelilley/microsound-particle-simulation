@@ -1,3 +1,12 @@
+/**
+ * Legacy academic project (2023).
+ *
+ * Focus: experimentation with real-time audio + physics interaction in the browser.
+ * Structure reflects rapid prototyping rather than production architecture.
+ *
+ * Left largely in original form to show development progression.
+ */
+
 p5.disableFriendlyErrors = true;
 
 //In this section of code(Lines 5-56) global variables are being initialised. Some are initialised with a value e.g. 'let directionx = 0' and some are empty e.g. 'var calx'. Also here I'm initialising global arrays for use later in the code indicated by '[]' e.g. 'let particles = []'    
