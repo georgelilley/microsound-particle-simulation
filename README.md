@@ -96,3 +96,6 @@ It remains here to show progression toward my current focus on large-scale and p
 ## Play Online
 
 👉 https://users.sussex.ac.uk/~gsl23/Microsound_-_The_Audio_Game_Final/
+
+Built and tested against browser versions available at the time of development.  
+Changes to modern audio or security policies may affect runtime behaviour.
